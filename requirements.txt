@@ -1,0 +1,15 @@
+# LightSpeedLogos requires Python 3.7 or later
+# No external dependencies required - uses only Python standard libraries
+
+# Optional for future development (commented out)
+# numpy==1.26.0
+# matplotlib==3.8.0  # For advanced visualizations
+
+the current code only uses:
+   - dis (standard library)
+   - collections (standard library)
+   - io (standard library)
+
+# No need to install anything beyond Python itself
+git clone https://github.com/yourusername/LightSpeedLogos.git
+cd LightSpeedLogos
