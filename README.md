@@ -1,6 +1,8 @@
-# LightSpeedLogos
+# PyLightLogos
 
-Transform Python code into a visual symbolic language that reveals its architectural essence. This project analyzes bytecode patterns, optimizes them into computational primitives, and represents them as visual symbols for instant comprehension.
+Transform Python code into a visual symbolic language that reveals its architectural essence. 
+This project analyzes bytecode patterns, optimizes them into computational primitives, 
+and represents them as visual symbols for instant comprehension.
 
 ## Features
 
@@ -13,8 +15,9 @@ Transform Python code into a visual symbolic language that reveals its architect
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/LightSpeedLogos.git
-cd LightSpeedLogos
+git clone https://github.com/yourusername/PyLightLogos
+.git
+cd PyLightLogos
 pip install -r requirements.txt
 ```
 
